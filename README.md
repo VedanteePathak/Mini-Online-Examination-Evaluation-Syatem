@@ -1,1 +1,1 @@
-# Mini-Online-Examination-Evaluation-Syatem
+# Mini-Online-Examination-Evaluation-System
